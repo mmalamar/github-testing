@@ -7,3 +7,4 @@ w = 1
 k = 100
 q = k+z
 print(z)
+p= k+z
